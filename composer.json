@@ -15,7 +15,7 @@
 
     "minimum-stability": "dev",
     "prefer-stable": true,
-
+	"abandoned": "rlankhorst/wp-consent-level-api",
     "scripts": {
         "phpcs": [
             "phpcs -p -s *.php"
