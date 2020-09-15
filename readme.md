@@ -1,5 +1,8 @@
 WP Consent API
 ======================
+
+**This plugin is abandoned. Use the original [WP Consent API](https://github.com/rlankhorst/wp-consent-level-api) ([Packagist.org](https://packagist.org/packages/rlankhorst/wp-consent-level-api))**
+
 **Contributors**: RogierLankhorst, xkon, aurooba, mujuonly, phpgeek, paapst, aahulsebos, mundschenk-at
 
 **Tags**: consent, privacy
